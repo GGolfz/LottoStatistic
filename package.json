@@ -1,0 +1,11 @@
+{
+  "name": "lottostat",
+  "version": "1.0.0",
+  "description": "use for get statistic of lottory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GGolfz",
+  "license": "ISC"
+}
